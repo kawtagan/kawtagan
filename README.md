@@ -1,7 +1,6 @@
 ### *Hi there*  I'm Kawtagan 👋
 
-![alt text](logo-woodspng"logo woods")
-
+![alt text](./Becode/README/assets/logo-woods.png)
 
 **Join me**
 
