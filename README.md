@@ -1,4 +1,4 @@
-### *Hi there* <span style="color: blue"> I'm Kawtagan !</span> 👋
+### *Hi there* <style>I'm Kawtagan !{color:Blue;}</style> 👋
 
 **Join me**
 
