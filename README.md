@@ -1,7 +1,8 @@
 ### *Hi there*  I'm Kawtagan 👋
 
 ![logo woods](assets/logo-woods.png)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=kawtagan)
+![](https://github-readme-stats.vercel.app/api?username=kawtagan&show_icons=true&theme=radical)
+
 
 **Join me**
 
