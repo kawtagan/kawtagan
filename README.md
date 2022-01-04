@@ -2,7 +2,7 @@
 
 **Join me**
 
-![https://www.linkedin.com/in/rberthaux/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Linkedin](https://www.linkedin.com/in/rberthaux/)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 
