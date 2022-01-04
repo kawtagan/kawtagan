@@ -55,7 +55,7 @@
 
 ---
 
-<figure><embed src="https://wakatime.com/share/@kawtagan/5bab088d-eab1-4812-aa69-b9183b66629d.svg"></embed></figure>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=)
 
 
 
