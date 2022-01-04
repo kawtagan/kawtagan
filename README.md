@@ -1,6 +1,7 @@
 ### *Hi there*  I'm Kawtagan 👋
 
 ![logo woods](assets/logo-woods.png)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=kawtagan)
 
 **Join me**
 
@@ -58,7 +59,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawtagan)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=kawtagan)
+
 
 
 
