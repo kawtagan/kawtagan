@@ -1,6 +1,6 @@
 ### *Hi there*  I'm Kawtagan 👋
 
-![logo woods](assets/logo-woods.png)
+![logo woods](assets/logo-woods.png | width=50)
 
 **Join me**
 
