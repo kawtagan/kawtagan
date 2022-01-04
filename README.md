@@ -54,7 +54,8 @@
 *About Adobe XD* => https://spark.adobe.com/page/WUYBj8yO3cN2P/?fbclid=IwAR1yzzwN7uOxHE3UzrPSgn4B7DoY3wNJA8tgQAVz5n3-mGGnWZ1OrsMflZU
 
 ---
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawtagan&hide=javascript,html)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawtagan)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=kawtagan)
 
 
