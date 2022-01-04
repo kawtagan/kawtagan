@@ -2,6 +2,7 @@
 
 ![logo woods](assets/logo-woods.png)
 ![](https://github-readme-stats.vercel.app/api?username=kawtagan&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawtagan&langs_count=8)
 
 
 **Join me**
@@ -56,7 +57,7 @@
 *About Adobe XD* => https://spark.adobe.com/page/WUYBj8yO3cN2P/?fbclid=IwAR1yzzwN7uOxHE3UzrPSgn4B7DoY3wNJA8tgQAVz5n3-mGGnWZ1OrsMflZU
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawtagan&langs_count=8)
+
 
 
 
