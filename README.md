@@ -1,15 +1,14 @@
 ### *Hi there*  I'm Kawtagan 👋
 
-![logo woods](assets/logo-woods.png)
-![](https://github-readme-stats.vercel.app/api?username=kawtagan&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawtagan&langs_count=8)
-
-
 **Join me**
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
+
+![logo woods](assets/logo-woods.png)
+![](https://github-readme-stats.vercel.app/api?username=kawtagan&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawtagan&langs_count=8)
 
 ---
 
