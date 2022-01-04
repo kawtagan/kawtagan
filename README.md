@@ -1,6 +1,12 @@
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=I'm Kawtagan) `#1589F0`
-
 ### *Hi there*  👋
+
+```diff
+- I'm Kawtagan
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 **Join me**
 
