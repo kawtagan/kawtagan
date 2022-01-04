@@ -17,18 +17,6 @@
 - :love_letter: How to reach me: rberthaux@gmail.com 
 
 ---
-
-## :trollface: Latest Tech Talk Post
-
-*About Stylus* => https://www.canva.com/design/DAExYGF8Prs/share/preview?token=82nffqpqirSp2W3cbx3GqA&role=EDITOR&utm_content=DAExYGF8Prs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
-
-*About Macintosh* => https://spark.adobe.com/page/fOGTz7gGdaY9q/?fbclid=IwAR3Nu2pI_WqXuReQbIBHTUC_9OvjwhClK-ldG0unyfmoMx2s-qZtqEpcL18
-
-
-*About Adobe XD* => https://spark.adobe.com/page/WUYBj8yO3cN2P/?fbclid=IwAR1yzzwN7uOxHE3UzrPSgn4B7DoY3wNJA8tgQAVz5n3-mGGnWZ1OrsMflZU
-
----
-
 ##Languages :lips:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,6 +42,20 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
+## :trollface: Latest Tech Talk Post
+
+*About Stylus* => https://www.canva.com/design/DAExYGF8Prs/share/preview?token=82nffqpqirSp2W3cbx3GqA&role=EDITOR&utm_content=DAExYGF8Prs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+*About Macintosh* => https://spark.adobe.com/page/fOGTz7gGdaY9q/?fbclid=IwAR3Nu2pI_WqXuReQbIBHTUC_9OvjwhClK-ldG0unyfmoMx2s-qZtqEpcL18
+
+
+*About Adobe XD* => https://spark.adobe.com/page/WUYBj8yO3cN2P/?fbclid=IwAR1yzzwN7uOxHE3UzrPSgn4B7DoY3wNJA8tgQAVz5n3-mGGnWZ1OrsMflZU
+
+---
+
+<figure><embed src="https://wakatime.com/share/@kawtagan/5bab088d-eab1-4812-aa69-b9183b66629d.svg"></embed></figure>
 
 
 
