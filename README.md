@@ -55,7 +55,9 @@
 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawtagan&hide=javascript,html)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawtagan)
+
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=kawtagan)
 
 
