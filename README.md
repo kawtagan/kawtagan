@@ -1,5 +1,8 @@
 ### *Hi there*  I'm Kawtagan 👋
 
+### Front-End developer and Graphic Designer 
+---
+
 **Join me**
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
